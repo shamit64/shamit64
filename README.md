@@ -103,7 +103,7 @@ A personal project exploring web development through a manga-focused platform.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shamit64)
 
 <!-- Add your LinkedIn profile badge after inserting your real LinkedIn URL. -->
-
+https://www.linkedin.com/in/shamit-reddy-347438380/
 </div>
 
 ---
@@ -111,18 +111,3 @@ A personal project exploring web development through a manga-focused platform.
 <div align="center">
 
 *Learn continuously. Build consistently. Improve every day.*
-
-</div>
-**shamit64/shamit64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
