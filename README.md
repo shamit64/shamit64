@@ -1,113 +1,94 @@
+<h1 align="center">Shamit Reddy</h1>
+<p align="center">
+  <b>Software Developer · Backend & Systems · Cloud</b><br/>
+  B.Tech Information Technology @ YOUR COLLEGE · Class of YEAR · Hyderabad, India
+</p>
 
-<!--<!--
-  SHAMIT64 | Professional GitHub Profile
-  Theme: Dark navy + blue
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamit-reddy-347438380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shamit64?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
+</p>
+
+---
+
+### About
+
+I'm an IT student who likes understanding how systems work underneath, from how a network switch learns where to send a frame to how a web backend stores and serves files. I build projects to learn that by doing.
+
+- Currently building **[RepoRescue](https://github.com/shamit64/RepoRescue)**, a local-first tool that analyzes the health of a code repository
+- Interested in backend development, computer networks and cloud systems
+- Open to software development internships
+
+### Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,flask,js,html,css,git,github,linux,vscode&perline=10" alt="C, Python, Flask, JavaScript, HTML, CSS, Git, GitHub, Linux, VS Code"/>
+</p>
+
+### Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Cloud File Storage](https://github.com/shamit64/CloudFileStorage)**
+A web app for uploading, finding and retrieving files from one central store, like a small self-hosted Google Drive.
+
+- Flask backend exposing REST endpoints for upload, list, download, search and delete
+- Dashboard UI with drag-and-drop upload and file size and upload details
+
+`Python` `Flask` `REST APIs` `JavaScript` `HTML/CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**[Ethernet Switch Simulator](https://github.com/shamit64/Basic-Ethernet-Switch-Simulator)**
+A command-line simulation of how a real Ethernet switch decides where each frame goes.
+
+- MAC address learning with a live MAC-to-port table
+- Forwards to known ports, floods unknown and broadcast frames, and filters same-port traffic
+
+`C` `Computer Networks` `Data Structures`
+
+</td>
+</tr>
+<!--
+  Uncomment this row once these repos have code and a proper README.
+
+<tr>
+<td width="50%" valign="top">
+
+**[RepoRescue](https://github.com/shamit64/RepoRescue)**
+A local-first analyzer that scores a repository's health and suggests fixes.
+
+- WHAT IT CHECKS (e.g. missing README/license, stale branches, large files, failing tests)
+- HOW IT WORKS (e.g. runs locally, no code leaves your machine)
+
+`TECH` `TECH`
+
+</td>
+<td width="50%" valign="top">
+
+**[Job Recruitment Portal](https://github.com/shamit64/Job-Recruitment-Portal)**
+A portal where recruiters post jobs and candidates apply and track their applications.
+
+- KEY FEATURE (e.g. role-based login for recruiters and candidates)
+- KEY FEATURE (e.g. application status tracking, search and filters)
+
+`TECH` `TECH`
+
+</td>
+</tr>
 -->
+</table>
 
-<div align="center">
+### GitHub
 
-# Hi, I'm Shamit Reddy 👋
-
-### Information Technology Student | Software Development | Cloud & AI
-
-Building practical projects, exploring emerging technologies, and learning by creating.
-
-[![GitHub](https://img.shields.io/badge/GitHub-shamit64-181717?style=for-the-badge&logo=github)](https://github.com/shamit64)
-[![Repositories](https://img.shields.io/badge/Explore-My_Projects-1D4ED8?style=for-the-badge&logo=github)](https://github.com/shamit64?tab=repositories)
-
-</div>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamit64&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E" alt="Top languages"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an Information Technology student interested in building useful software and understanding how modern applications work.
-
-- 💻 Interested in software and web development
-- ☁️ Exploring cloud computing and cloud-based applications
-- 🤖 Learning about artificial intelligence and Python
-- 🛠️ Focused on hands-on projects and continuous improvement
-- 🎯 Goal: Build reliable applications and grow as a software developer
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Languages & Web Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-> Add cloud, database, or AI technology badges only when you have hands-on experience with those tools. Remove any language badge that doesn't represent your actual skills.
-
----
-
-## 🚀 Featured Projects
-
-### ☁️ Cloud File Storage System
-
-A cloud-inspired application for uploading, storing, and retrieving files.
-
-- **Focus:** File management and web application development
-- **Tech stack:** Python, Flask, HTML, CSS, JavaScript *(verify against your code)*
-- **Repository:** [CloudFileStorage](https://github.com/shamit64/CloudFileStorage)
-
-### 💼 Job Recruitment Portal
-
-A web application project focused on recruitment and job-related workflows.
-
-- **Focus:** Web development and recruitment workflows
-- **Tech stack:** Add the technologies actually used in this repository
-- **Repository:** [Job-Recruitment-Portal](https://github.com/shamit64/Job-Recruitment-Portal)
-
-### 📚 Manga Platform
-
-A personal project exploring web development through a manga-focused platform.
-
-- **Focus:** Web application development and user experience
-- **Tech stack:** Add the technologies actually used in this repository
-- **Repository:** [Manga-Platform](https://github.com/shamit64/Manga-Platform)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shamit64&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&rank_icon=github" alt="GitHub statistics for shamit64" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamit64&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" alt="Most-used programming languages for shamit64" />
-
-</div>
-
-*Statistics are generated from publicly available GitHub data and may not reflect private repositories or all external contributions.*
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shamit64)
-
-<!-- Add your LinkedIn profile badge after inserting your real LinkedIn URL. -->
-https://www.linkedin.com/in/shamit-reddy-347438380/
-</div>
-
----
-
-<div align="center">
-
-*Learn continuously. Build consistently. Improve every day.*
+<p align="center"><sub>Open to internships and collaboration · reach me on LinkedIn</sub></p>
