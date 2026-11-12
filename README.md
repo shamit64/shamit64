@@ -1,45 +1,162 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=210&section=header&text=Shamit%20Reddy&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Shamit Reddy — Backend & Full-Stack Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Shamit%20Reddy&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer%20%C2%B7%20Hyderabad&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Shamit Reddy — Backend & Full-Stack Developer, Hyderabad"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shamit64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL;I+build+backends+and+test+them+properly;Currently+building+RepoRescue;Open+to+SDE+internships" alt="Typing intro"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=I+build+backends+and+test+them+properly;Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Currently+building+RepoRescue;Open+to+SDE+internships" alt="I build backends and test them properly"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamit-reddy-347438380/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:reddyshamit@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/shamit64?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-</p>
-
-<p align="center">
-  🎓 B.Tech Information Technology @ <b>Mahatma Gandhi Institute of Technology</b> · Class of <b>2027</b> &nbsp;|&nbsp; 📍 Hyderabad, India
+  <a href="https://www.linkedin.com/in/shamit-reddy-347438380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:reddyshamit@gmail.com"><img src="https://img.shields.io/badge/Email-reddyshamit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shamit64?tab=repositories"><img src="https://img.shields.io/badge/All_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/></a>
 </p>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ============================== ABOUT ============================== -->
 
-## 👋 About me
+## 👋 Hi, I'm Shamit
 
-I'm an IT student who likes understanding how systems work under the hood, and I build software that's tested as if it were going to production. My biggest project, **MangaForEver**, is a full-stack platform with a Next.js front end, an Express + PostgreSQL API, scheduled background jobs and 92 integration tests against a real database. On the systems side, I've built a switch simulator that learns where to send each frame and a tool that grades a codebase's health without a single byte leaving your machine.
+I'm a B.Tech Information Technology student at **Mahatma Gandhi Institute of Technology**, Hyderabad (class of **2027**). I like knowing how a system works under the hood, and I write software as if it were going to production: validated input, real database constraints, and tests that run against a real database rather than mocks.
 
-```python
-shamit = {
-    "focus":       ["Backend", "Full-Stack", "Developer Tools"],
-    "building":    "RepoRescue: a zero-dependency repo health CLI",
-    "learning":    ["PostgreSQL performance", "API design", "Cloud deployment"],
-    "interests":   ["Computer networks", "Cloud systems"],
-    "looking_for": "Software engineering internships (backend / full-stack)",
-}
+- 🔭 **Building:** [RepoRescue](https://github.com/shamit64/RepoRescue), a zero-dependency CLI that grades a repository's health
+- 🌱 **Learning:** PostgreSQL performance, API design and cloud deployment
+- 🧩 **Interested in:** computer networks and cloud systems
+- 💼 **Looking for:** software engineering internships (backend / full-stack)
+
+<br/>
+
+<!-- ============================== FLAGSHIP ============================== -->
+
+## 🚀 Featured projects
+
+### 📚 [MangaForEver](https://github.com/shamit64/Manga-Platform-MangaForEver)
+
+**A full-stack platform for discovering, tracking and reviewing manga, manhwa and manhua, backed by a real catalog imported from AniList.**
+
+<a href="https://github.com/shamit64/Manga-Platform-MangaForEver">
+  <img src="https://raw.githubusercontent.com/shamit64/Manga-Platform-MangaForEver/main/docs/screenshots/home.png" width="100%" alt="MangaForEver home page"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma 7"/>
+  <img src="https://img.shields.io/badge/tests-92-2EA043?style=flat-square&logo=vitest&logoColor=white" alt="92 tests"/>
+</p>
+
+| | |
+|---|---|
+| 🔎 **Search that forgives typos** | PostgreSQL full-text ranking plus `pg_trgm` trigram matching on GIN indexes, so "berzerk" still finds *Berserk* |
+| 🧠 **Explainable recommendations** | Content-based scoring with diversity re-ranking; every pick says why it's there ("Because you read…") |
+| ⏱️ **Catalog that keeps itself current** | Scheduled jobs on GitHub Actions pick up new chapters every 15 minutes, with a live updates feed, Web Push and email digests |
+| 🛡️ **Production habits** | Zod validation, Helmet, rate limiting, OpenAPI 3.1 docs, database-level integrity constraints and an admin audit log |
+| 🧪 **Tested for real** | 92 Vitest + Supertest integration and unit tests running against a real PostgreSQL database |
+
+<details>
+<summary><b>How it fits together</b></summary>
+<br/>
+
+```mermaid
+flowchart LR
+  U[Browser] --> W[Next.js 16 web app]
+  W --> A[Express 5 API]
+  A --> D[(PostgreSQL + pg_trgm)]
+  J[GitHub Actions jobs] --> A
+  A --> AL[AniList API]
+  A --> MD[MangaDex API]
+  A --> N[Web Push / email digests]
 ```
 
+</details>
+
 <br/>
 
-<!-- ===================== TECH ===================== -->
+### 🩺 [RepoRescue](https://github.com/shamit64/RepoRescue)
+
+**A local-first health check for your repositories: no network requests, no account, no runtime dependencies.**
+
+<p>
+  <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"/>
+  <img src="https://img.shields.io/badge/CLI-4B5563?style=flat-square&logo=gnubash&logoColor=white" alt="CLI"/>
+  <img src="https://img.shields.io/badge/runtime_dependencies-0-2EA043?style=flat-square" alt="Zero runtime dependencies"/>
+  <img src="https://img.shields.io/badge/works-offline-0EA5E9?style=flat-square" alt="Works offline"/>
+</p>
+
+```text
+$ reporescue scan .
+[docs]  62.5/100
+  FAIL  License: No LICENSE file. Others cannot legally reuse the code.
+[git]   100/100
+[code]  100/100
+[deps]  not scored
+
+Overall score: 87.5/100  (grade B)
+Top fixes:
+   1. [FAIL] License: Add a LICENSE file (choosealicense.com helps pick one)
+```
+
+- **14 checks** across docs, git hygiene, code (tests, large files, committed secrets) and dependency pinning
+- Every warning or failure comes with a **suggested fix**, ranked so the most useful ones come first
+- Reports as **text, JSON, Markdown or a single-file HTML** page with no scripts or external assets
+- `--fail-under` turns it into a **CI gate** that fails the build when repo health drops
+
+<br/>
+
+### 🧰 More projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ☁️ [Cloud File Storage](https://github.com/shamit64/CloudFileStorage)
+
+*A small self-hosted file store with a web dashboard*
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
+
+- Flask REST endpoints to upload, list, download, search and delete files
+- Dashboard with drag-and-drop upload, file sizes and upload times
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔌 [Ethernet Switch Simulator](https://github.com/shamit64/Basic-Ethernet-Switch-Simulator)
+
+*How a real switch decides where each frame goes*
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Computer_Networks-0EA5E9?style=flat-square&logo=cisco&logoColor=white" alt="Computer Networks"/>
+
+- Learns which MAC address lives on which of its 4 ports
+- Forwards known frames, floods unknown and broadcast ones, drops same-port traffic
+- Interactive CLI to send frames and inspect the MAC table
+
+</td>
+</tr>
+</table>
+
+<!-- Add this back once Job Recruitment Portal has code and a README:
+
+#### 💼 [Job Recruitment Portal](https://github.com/shamit64/Job-Recruitment-Portal)
+
+A portal where recruiters post jobs and candidates apply and track their applications.
+
+- KEY FEATURE
+- KEY FEATURE
+
+-->
+
+<br/>
+
+<!-- ============================== TECH ============================== -->
 
 ## 🛠️ Tech stack
 
@@ -68,110 +185,11 @@ shamit = {
 
 <br/>
 
-<!-- ===================== FLAGSHIP PROJECT ===================== -->
-
-## 🚀 Featured projects
-
-### 📚 [MangaForEver](https://github.com/shamit64/Manga-Platform-MangaForEver) — full-stack discovery & tracking platform
-
-<a href="https://github.com/shamit64/Manga-Platform-MangaForEver">
-  <img src="https://raw.githubusercontent.com/shamit64/Manga-Platform-MangaForEver/main/docs/screenshots/home.png" width="100%" alt="MangaForEver home page"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/tests-92_passing-2EA043?style=flat-square&logo=vitest&logoColor=white" alt="92 tests"/>
-</p>
-
-A platform for discovering, tracking and reviewing manga, manhwa and manhua, backed by a real AniList-imported catalog.
-
-- 🔎 **Search that forgives typos:** PostgreSQL full-text + `pg_trgm` trigram matching ("berzerk" still finds *Berserk*)
-- 🧠 **Explainable recommendations** that say why each pick is there
-- ⏱️ **Background jobs** on GitHub Actions sync new chapters every 15 minutes, with Web Push and email digests
-- 🛡️ **Production habits:** Zod validation, rate limiting, OpenAPI docs and 92 Vitest + Supertest integration tests against real PostgreSQL
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 [RepoRescue](https://github.com/shamit64/RepoRescue)
-
-*Local-first repository health checker*
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/CLI-4B5563?style=flat-square&logo=gnubash&logoColor=white" alt="CLI"/>
-<img src="https://img.shields.io/badge/zero-dependencies-2EA043?style=flat-square" alt="Zero dependencies"/>
-
-```text
-$ reporescue scan .
-[docs]  62.5/100
-  FAIL  License: No LICENSE file.
-[git]   100/100
-[code]  100/100
-Overall score: 87.5/100  (grade B)
-```
-
-- 14 checks: docs, git hygiene, tests, secrets, dependency pinning
-- Text, JSON, Markdown or self-contained HTML reports
-- `--fail-under` gate for CI pipelines
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [Cloud File Storage](https://github.com/shamit64/CloudFileStorage)
-
-*A small self-hosted Google Drive*
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
-
-Upload, find and retrieve files from one central store.
-
-- Flask REST endpoints for upload, list, download, search and delete
-- Dashboard with drag-and-drop upload and file details
-
-<br/>
-
-### 🔌 [Ethernet Switch Simulator](https://github.com/shamit64/Basic-Ethernet-Switch-Simulator)
-
-*How a real switch decides where each frame goes*
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/Computer_Networks-0EA5E9?style=flat-square&logo=cisco&logoColor=white" alt="Computer Networks"/>
-
-- MAC learning with a live MAC-to-port table
-- Forwards, floods unknown/broadcast frames, filters same-port traffic
-
-</td>
-</tr>
-</table>
-
-<!-- Add this back once Job Recruitment Portal has code and a README:
-
-### 💼 [Job Recruitment Portal](https://github.com/shamit64/Job-Recruitment-Portal)
-
-A portal where recruiters post jobs and candidates apply and track their applications.
-
-- KEY FEATURE
-- KEY FEATURE
-
--->
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
+<!-- ============================== FOOTER ============================== -->
 
 <p align="center">
   <b>Hiring for an internship, or want to build something together?</b><br/>
-  <a href="https://www.linkedin.com/in/shamit-reddy-347438380/">Let's connect on LinkedIn →</a>
+  <a href="https://www.linkedin.com/in/shamit-reddy-347438380/">Message me on LinkedIn</a> or <a href="mailto:reddyshamit@gmail.com">send me an email</a>.
 </p>
 
 <p align="center">
